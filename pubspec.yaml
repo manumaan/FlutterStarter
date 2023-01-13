@@ -36,7 +36,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  test: ^1.5.1
+#  test: ^1.5.1
   retrofit_generator: ^1.0.2+2
   build_runner: ^1.7.2
 
